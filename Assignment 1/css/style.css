@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background: whitesmoke;
+    background-color: #1d1e20;
+    font-family: -apple-system, Ubuntu, Roboto, Verdana; 
+}
+.navigation img {
+    border-radius: 50%;
+    float: left;
+    padding: 8px 10px;
+}
+
+.navigation {
+    background-color: #434242;
+    overflow: hidden;
+}
+
+.navigation a{
+    color: whitesmoke;
+    float: left;
+    text-align: center;
+    display: block;
+    padding: 18px 20px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    color: black;
+    background-color: #3f1d59;
+}
+
+#banner h1 {
+    color: whitesmoke;
+    text-align: center;
+}
